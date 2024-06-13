@@ -1,14 +1,21 @@
-## Iae calabresos👋
-
-**Ackin.Dev** Back-End Developer 
+<div align="center">
+🎇<br>
+<strong>Olá calabresos</strong><br>
+<br>
+<strong>DESENVOLVEDOR</strong>
 
 <div align="center">
-
-|<strong>LANGUAGES</strong> | <strong>FRAMEWORKS</strong>|
-|----------|----------|
-|<img align="center" alt="Python" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> | <img align="center" alt="Flask" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> |
-
-</div>
+  <kbd>
+  <strong>Back-End</strong>
+    </kbd>
+</div>  
+     <div align="center" style="display: inline_block"><br>  
+        <img align="center" alt="PYTHON" height="40" width="80"
+        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+         <img align="center" alt="FLASK" height="40" width="80"
+        src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+     </div>
+<div align="center"><br>
 
 <div align="center">
   <a href="https://github.com/Malihgno616">
