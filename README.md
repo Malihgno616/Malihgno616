@@ -2,21 +2,13 @@
 
 **Ackin.Dev** Back-End Developer 
 
-<div align="center"><br><br>
-<strong> Languages </strong>
-</div>  
-     <div align="center" style="display: inline_block"><br>
-        <img align="center" alt="Python" height="45" width="45"
-        src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-</div>  
+<div align="center">
 
-<div align="center"><br><br>
-<strong> Frameworks </strong>
-</div>  
-     <div align="center" style="display: inline_block"><br>
-        <img align="center" alt="Flask" height="45" width="45"
-        src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
-</div>  
+|<strong>LANGUAGES</strong> | <strong>FRAMEWORKS</strong>|
+|----------|----------|
+|<img align="center" alt="Python" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> | <img align="center" alt="Flask" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> |
+
+</div>
 
 <div align="center">
   <a href="https://github.com/Malihgno616">
