@@ -2,11 +2,11 @@
 🎇<br>
 <strong>Olá calabresos</strong><br>
 <br>
-<strong>DESENVOLVEDOR</strong>
+<strong>PROGRAMANDO E APRENDENDO</strong>
 
 <div align="center">
   <kbd>
-  <strong>web developer</strong>
+  <strong>WEB DEVELOPER</strong>
     </kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>  
