@@ -2,7 +2,7 @@
 🎇<br>
 <strong>Olá calabresos</strong><br>
 <br>
-<strong>PROGRAMANDO E APRENDENDO</strong>
+<strong>PROGRAMANDO E APRENDENDO SEMPRE</strong>
 
 <div align="center">
   <kbd>
