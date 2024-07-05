@@ -2,10 +2,12 @@
 🎇<br>
 <strong>Olá calabresos</strong><br>
 <br>
-
+<p>
+  <strong>Aprendendo e evoluindo cada vez mais💥</strong>
+</p>
 <div align="center">
   <kbd>
-  <strong>Web Developer</strong>
+  <strong>Developer</strong>
     </kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>  
