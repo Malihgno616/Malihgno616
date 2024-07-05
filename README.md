@@ -5,15 +5,20 @@
 
 <div align="center">
   <kbd>
-  <strong>Software Developer</strong>
+  <strong>Web Developer</strong>
     </kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>  
-        <img align="center" alt="PYTHON" height="40" width="80"
-        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-         <img align="center" alt="FLASK" height="40" width="80"
-        src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+        <img align="center" alt="PYTHON" height="40" width="40"
+        src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+        <img align="center" alt="HTML" height="40" width="40"
+        src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+       <img align="center" alt="CSS" height="40" width="40"
+        src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+       <img align="center" alt="Flask" height="40" width="40"
+        src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
      </div>
+     
 <div align="center"><br>
 
 <div align="center">
