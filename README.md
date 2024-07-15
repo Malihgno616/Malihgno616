@@ -17,8 +17,6 @@
         src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
        <img align="center" alt="CSS" height="40" width="40"
         src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-       <img align="center" alt="Flask" height="40" width="40"
-        src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
      </div>
      
 <div align="center"><br>
