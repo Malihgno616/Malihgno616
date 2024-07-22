@@ -17,8 +17,10 @@
         src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
        <img align="center" alt="CSS" height="40" width="40"
         src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-       <img align="center" alt="CSS" height="40" width="40"
-        src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+       <img align="center" alt="VSCODE" height="40" width="40"
+        src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+       <img align="center" alt="VSCODE" height="40" width="40"
+        src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
      </div>
      
 <div align="center"><br>
