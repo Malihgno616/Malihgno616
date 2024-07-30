@@ -7,7 +7,7 @@
 </p>
 <div align="center">
   <kbd>
-  <strong>Back-End Developer</strong>
+  <strong>Developer</strong>
     </kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>  
