@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <kbd>
-  <strong>Developer</strong>
+  <strong>Web Developer</strong>
     </kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>  
