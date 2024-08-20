@@ -16,6 +16,10 @@
         src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
        <img align="center" alt="VSCODE" height="40" width="40"
         src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+       <img align="center" alt="JavaScript" height="40" width="40"
+        src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+       <img align="center" alt="PHP" height="40" width="40"
+        src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
      </div>
      
 <div align="center"><br>
