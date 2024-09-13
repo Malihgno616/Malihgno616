@@ -1,29 +1,61 @@
-<div align="center">
-🎇<br>
-<strong>Iae meu nobre!!!</strong><br>
-<br>
-<div align="center">
-  <kbd>
-  <strong>Developer</strong>
-    </kbd>
-</div>  
-     <div align="center" style="display: inline_block"><br>  
-        <img align="center" alt="PYTHON" height="40" width="40"
-        src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-        <img align="center" alt="HTML" height="40" width="40"
-        src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
-       <img align="center" alt="CSS" height="40" width="40"
-        src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-       <img align="center" alt="VSCODE" height="40" width="40"
-        src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-       <img align="center" alt="JavaScript" height="40" width="40"
-        src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-     </div>
-     
-<div align="center"><br>
+<h1 align="center">Olá, Mundo!!</h1>
+
+###
+
+<p align="center">Este é o meu GitHub com alguns dos meus projetos em desenvolvimento e projetos prontos caso queiram ver.</p>
+
+###
+
+<p align="center">Meu nome é Ackin. Sou estagiário e estou cursando Análise e Desenvolvimento de Sistemas</p>
+
+###
 
 <div align="center">
-  <a href="https://github.com/Malihgno616">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malihgno616&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malihgno616&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Malihgno616&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malihgno616&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img height="400" src="https://i.makeagif.com/media/1-01-2023/JtizP9.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">Neste momento estou aprendendo essas tecnologias</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
