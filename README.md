@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<h4 align="center">Neste momento estou aprendendo essas tecnologias</h4>
+<h4 align="center">Techs que estou estudando</h4>
 
 ###
 
