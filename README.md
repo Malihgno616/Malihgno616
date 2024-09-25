@@ -21,9 +21,7 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://i.makeagif.com/media/1-01-2023/JtizP9.gif"  />
-</div>
+
 
 ###
 
