@@ -1,12 +1,10 @@
-<h1 align="center">Olá, Mundo!!</h1>
+<h1 align="center">Hello, World!!</h1>
 
 ###
 
-<p align="center">Este é o meu GitHub com alguns dos meus projetos em desenvolvimento e projetos prontos caso queiram ver.</p>
+<p align="center">Welcome to my repository.</p>
 
 ###
-
-<p align="center">Meu nome é Ackin. Sou estagiário e estou cursando Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
