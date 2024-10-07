@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Welcome to my repository.</p>
+<p align="center">Bem-Vindos ao meu repositório.</p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<h4 align="center">Techs que estou estudando</h4>
+<h4 align="center">Tecnologias que estou aprendendo no momento</h4>
 
 ###
 
