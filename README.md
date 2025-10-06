@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando Análise e Desenvolvimento de Sitemas - 4/5;<br><br>Estagiário de desenvolvimento Web com PHP, JS e MySQL
+Cursando Análise e Desenvolvimento de Sitemas - 4/5;<br><br>Estagiário de TI com PHP, JS e MySQL.
 
 
 # 💻 Tech Stack:
