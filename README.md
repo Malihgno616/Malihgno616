@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Cursando Análise e Desenvolvimento de Sitemas - 4/5;<br><br>Estagiário de TI com PHP,CSS JS e MySQL <br>Interesse no desenvolvimento back-end. <br> atualmente estudando o framework Laravel.
+Cursando Análise e Desenvolvimento de Sitemas - 4/5;<br><br>Estagiário de TI com PHP,CSS JS e MySQL <br>Interesse no desenvolvimento back-end. <br> Atualmente estudando o framework Laravel.
 
 
 # 💻 Tecnologias:
