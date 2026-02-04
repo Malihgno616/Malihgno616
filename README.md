@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Cursando Análise e Desenvolvimento de Sitemas - 4/5;<br><br>Estagiário de TI com PHP, CSS, JS e MySQL <br>Interesse no desenvolvimento back-end.
+Cursando Análise e Desenvolvimento de Sitemas - 5/5;<br><br>Estagiário de Desenvolvimento com PHP, CSS, JavaScript e MySQL.
 
 
 # 💻 Tecnologias:
