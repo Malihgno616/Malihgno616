@@ -129,7 +129,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Malihgno616/Malihgno616/stats-output/stats.svg" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Malihgno616&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
