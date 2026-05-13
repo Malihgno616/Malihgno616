@@ -31,8 +31,67 @@
 
 <br clear="both">
 
-<h1 align="left">Projetos em Destaque</h1>
+<h1 align="center">🚀 Projetos em Destaque</h1>
 
+<br>
+
+<h2>🚦 Trânsito Leme</h2>
+<p>
+  Site do principal
+</p>
+
+<p>
+  🔗 
+  <a href="https://novo.transitoleme.sp.gov.br/" target="_blank">
+    Acessar Projeto
+  </a>
+</p>
+
+<hr>
+
+<h2>📝 Todo List API com Laravel</h2>
+<p>
+  API REST desenvolvida com Laravel para gerenciamento de tarefas.
+</p>
+
+<p>
+  🔗 <a href="#" target="_blank">Ver Projeto</a>
+</p>
+
+<hr>
+
+<h2>💻 Task Tracker com Python</h2>
+<p>
+  Aplicação de terminal para gerenciamento de tarefas utilizando Python.
+</p>
+
+<p>
+  🔗 <a href="#" target="_blank">Ver Projeto</a>
+</p>
+
+<hr>
+
+<h2>💰 Expense API com Laravel</h2>
+<p>
+  API REST para controle de despesas pessoais desenvolvida em Laravel.
+</p>
+
+<p>
+  🔗 <a href="#" target="_blank">Ver Projeto</a>
+</p>
+
+<hr>
+
+<h2>☕ Expense Tracker com Java</h2>
+<p>
+  Sistema de controle financeiro desenvolvido em Java.
+  <br>
+  🚧 Em desenvolvimento
+</p>
+
+<p>
+  🔗 <a href="#" target="_blank">Ver Projeto</a>
+</p>
 ###
 
 <h3 align="left">🛠 Tecnologias & Ferramentas</h3>
@@ -62,10 +121,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Malihgno616/Malihgno616/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
