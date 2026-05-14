@@ -55,7 +55,7 @@
 </p>
 
 <p>
-  🔗 <a href="#" target="_blank">Ver Projeto</a>
+  🔗 <a href="https://github.com/Malihgno616/api-todo-list.git" target="_blank">Ver Projeto</a>
 </p>
 
 <hr>
@@ -66,7 +66,7 @@
 </p>
 
 <p>
-  🔗 <a href="#" target="_blank">Ver Projeto</a>
+  🔗 <a href="https://github.com/Malihgno616/task-tracker-python.git" target="_blank">Ver Projeto</a>
 </p>
 
 <hr>
@@ -77,7 +77,7 @@
 </p>
 
 <p>
-  🔗 <a href="#" target="_blank">Ver Projeto</a>
+  🔗 <a href="https://github.com/Malihgno616/expense-tracker.git" target="_blank">Ver Projeto</a>
 </p>
 
 <hr>
@@ -90,7 +90,7 @@
 </p>
 
 <p>
-  🔗 <a href="#" target="_blank">Ver Projeto</a>
+  🔗 <a href="https://github.com/Malihgno616/Expense-Tracker-CLI.git" target="_blank">Ver Projeto</a>
 </p>
 ###
 
