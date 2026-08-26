@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Me chamo Ackin Maiochi Lino, sou estagiário no TI no momento e curso o último semestre do curso Análise e Desevolvimento de Sistemas.<br><br>- Atualmente, estou incrementando funcionalidades e realizando manutenções no site de trânsito do município de Leme usando tecnologias como PHP, Javascript, MySQL, CSS e TailwindCSS tanto a parte do cliente e admin. O sistema tem por finalidade de oferecer serviços relacionados ao trânsito no município, como o cliente pode solicitar credenciais de estacionamento, requerimentos relacionados a multa, informações gerais sobre o trânsito apenas no município. E na parte administrativa, o usuário pode lançar as credenciais, tanto do idoso e deficiente, gerenciar o conteúdo das páginas do site do cliente, e postagem de notícias.<br> <br>- 📚 No momento estudo mais a parte do back-end sobre APIs REST, Docker, <br>Banco de Dados, e desenvolvendo projetos do site roadmap.sh, e ando me aprofundando em Java com esses projetos.</p>
+<p align="left">Me chamo Ackin Maiochi Lino, sou formado em Análise e Desevolvimento de Sistemas.<br><br> <br>- 📚 No momento estudo mais a parte do back-end sobre APIs REST, Docker, Banco de Dados, e desenvolvendo projetos do site roadmap.sh, e ando me aprofundando em Java/PHP/Pyhton com esses projetos.</p>
 
 ###
 
